@@ -42,7 +42,20 @@ plt.show()
 This simple code is based on the work of Eisa Hedayati.
 If you used this code please cite our paper "Modeling standard plenoptic camera by an equivalent camera array"
 
-@article{}
+@article{10.1117/1.OE.59.7.073101,
+author = {Eisa Hedayati and Jeremy P. Bos},
+title = {{Modeling standard plenoptic camera by an equivalent camera array}},
+volume = {59},
+journal = {Optical Engineering},
+number = {7},
+publisher = {SPIE},
+pages = {1 -- 14},
+keywords = {light fields, plenoptic imaging, image processing, scene rendering, virtual reality, augmented reality},
+year = {2020},
+doi = {10.1117/1.OE.59.7.073101},
+URL = {https://doi.org/10.1117/1.OE.59.7.073101}
+}
+
 
 @inproceedings{hedayati2018simulation,
   title={Simulation of light fields captured by a plenoptic camera using an equivalent camera array},
